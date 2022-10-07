@@ -1,5 +1,5 @@
 # Neural Machine Translation
-***Course taught during the Artificial Intelligence master's program, 2nd Year, 2nd Semester, 2022***
+***Course taught during the Artificial Intelligence master's program, 2nd Year, 1st Semester, 2022***
 
 ***University of Bucharest, Faculty of Mathematics and Computer Science***
 
