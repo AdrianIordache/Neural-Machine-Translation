@@ -1,0 +1,36 @@
+data/references/newstest2020-ruen-ref.en.txt
+data/sources/newstest2020-ruen-src.ru.txt
+data/system-outputs/ru-en/*.txt
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.AFRL.1083.txt] (1/11)
+Precision: 0.602, Recall: 0.614, F1: 0.603, Blue: 0.609
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.DiDi_NLP.1191.txt] (2/11)
+Precision: 0.587, Recall: 0.595, F1: 0.587, Blue: 0.594
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.OPPO.1094.txt] (3/11)
+Precision: 0.626, Recall: 0.632, F1: 0.622, Blue: 0.633
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.Online-A.1583.txt] (4/11)
+Precision: 0.611, Recall: 0.614, F1: 0.603, Blue: 0.614
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.Online-B.1603.txt] (5/11)
+Precision: 0.614, Recall: 0.628, F1: 0.617, Blue: 0.623
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.Online-G.1567.txt] (6/11)
+Precision: 0.613, Recall: 0.631, F1: 0.616, Blue: 0.63
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.Online-Z.1644.txt] (7/11)
+Precision: 0.586, Recall: 0.584, F1: 0.576, Blue: 0.583
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.PROMT_NMT.78.txt] (8/11)
+Precision: 0.618, Recall: 0.633, F1: 0.619, Blue: 0.629
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.ariel197197.512.txt] (9/11)
+Precision: 0.623, Recall: 0.621, F1: 0.609, Blue: 0.624
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.eTranslation.686.txt] (10/11)
+Precision: 0.613, Recall: 0.634, F1: 0.614, Blue: 0.627
+SO: [data/system-outputs/ru-en/newstest2020.ru-en.zlabs-nlp.1164.txt] (11/11)
+Precision: 0.554, Recall: 0.569, F1: 0.551, Blue: 0.564
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.OPPO.1094.txt, with Precision: 0.626
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.ariel197197.512.txt, with Precision: 0.623
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.PROMT_NMT.78.txt, with Precision: 0.618
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.Online-B.1603.txt, with Precision: 0.614
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.Online-G.1567.txt, with Precision: 0.613
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.eTranslation.686.txt, with Precision: 0.613
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.Online-A.1583.txt, with Precision: 0.611
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.AFRL.1083.txt, with Precision: 0.602
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.DiDi_NLP.1191.txt, with Precision: 0.587
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.Online-Z.1644.txt, with Precision: 0.586
+System Outputs: data/system-outputs/ru-en/newstest2020.ru-en.zlabs-nlp.1164.txt, with Precision: 0.554

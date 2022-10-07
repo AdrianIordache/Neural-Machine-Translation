@@ -1,0 +1,156 @@
+Read 13059 sentence pairs
+Trimmed to 10407 sentence pairs
+Counted words:
+eng 4581
+ro 6377
+('tom has gone away .', 'tom a plecat .')
+2m 17s (- 66m 33s) (5000 3%) 4.5516
+4m 30s (- 63m 13s) (10000 6%) 3.8133
+6m 44s (- 60m 40s) (15000 10%) 3.3126
+8m 58s (- 58m 22s) (20000 13%) 2.9241
+11m 13s (- 56m 6s) (25000 16%) 2.5883
+13m 28s (- 53m 52s) (30000 20%) 2.2828
+15m 43s (- 51m 41s) (35000 23%) 2.0306
+17m 58s (- 49m 26s) (40000 26%) 1.8622
+20m 11s (- 47m 7s) (45000 30%) 1.6922
+22m 25s (- 44m 51s) (50000 33%) 1.5339
+24m 39s (- 42m 35s) (55000 36%) 1.4068
+26m 52s (- 40m 19s) (60000 40%) 1.3110
+29m 6s (- 38m 4s) (65000 43%) 1.1940
+31m 20s (- 35m 49s) (70000 46%) 1.1228
+33m 35s (- 33m 35s) (75000 50%) 0.9729
+35m 49s (- 31m 20s) (80000 53%) 0.9545
+38m 3s (- 29m 6s) (85000 56%) 0.8767
+40m 17s (- 26m 51s) (90000 60%) 0.8600
+42m 32s (- 24m 37s) (95000 63%) 0.7928
+44m 47s (- 22m 23s) (100000 66%) 0.7969
+47m 2s (- 20m 9s) (105000 70%) 0.7309
+49m 17s (- 17m 55s) (110000 73%) 0.7283
+51m 31s (- 15m 40s) (115000 76%) 0.6628
+53m 46s (- 13m 26s) (120000 80%) 0.6226
+56m 1s (- 11m 12s) (125000 83%) 0.6024
+58m 16s (- 8m 57s) (130000 86%) 0.6193
+60m 30s (- 6m 43s) (135000 90%) 0.6080
+62m 46s (- 4m 29s) (140000 93%) 0.6832
+65m 0s (- 2m 14s) (145000 96%) 0.7447
+67m 15s (- 0m 0s) (150000 100%) 0.7962
+> tom wasn t shy .
+= tom nu era timid .
+< tom nu era timid . <EOS>
+
+> i should ve brought more food .
+= ar fi trebuit sa aduci mai multa mancare .
+< ar fi trebuit sa aduci mai multa mancare . <EOS>
+
+> where should i put my laundry ?
+= unde sa mi pun rufele ?
+< unde sa mi rufele rufele ? <EOS>
+
+> no pain no gain .
+= nu e castig fara osteneala .
+< nu e castig fara osteneala . <EOS>
+
+> please don t jump .
+= te rog nu sari .
+< te rog sa sari . <EOS>
+
+> show me what you bought .
+= arata mi ce ai cumparat .
+< ce arata ce ai . <EOS>
+
+> you were right .
+= aveai dreptate .
+< tu dreptate . <EOS>
+
+> do i have to tell you everything ?
+= trebuie sa va spun totul ?
+< trebuie sa iti spun totul ? <EOS>
+
+> that s my final answer .
+= asta este raspunsul meu final .
+< asta este raspunsul meu final . <EOS>
+
+> tom won t get another chance .
+= tom nu va primi o alta sansa .
+< tom nu va primi o alta sansa . <EOS>
+
+> tom does not like cheese .
+= lui tom nu i place branza .
+< lui nu i place branza lui <EOS>
+
+> who painted this picture ?
+= cine a pictat acest tablou ?
+< cine a pictat asta ? <EOS>
+
+> wait just a minute please .
+= asteapta un minut te rog .
+< asteapta un un un asteapta te . <EOS>
+
+> tom likes running .
+= lui tom ii place sa alerge .
+< lui tom ii place alergatul . <EOS>
+
+> the man blushed .
+= omul a rosit .
+< omul a rosit . <EOS>
+
+> how is it at school ?
+= cum este la scoala ?
+< cum e scoala scoala ? <EOS>
+
+> the fight didn t last long .
+= lupta nu a durat mult .
+< lupta nu nu nu a durat mult . <EOS>
+
+> i worked overtime .
+= am muncit ore suplimentare .
+< am muncit ore suplimentare . <EOS>
+
+> suddenly tom cried out in pain .
+= deodata tom tipa de durere .
+< deodata tom tipa de durere . . <EOS>
+
+> i was beginning to lose my cool .
+= incepusem sa imi pierd cumpatul .
+< incepusem sa imi pierd cumpatul . <EOS>
+
+> there is a marked difference between them .
+= exista o diferenta semnificativa intre ele .
+< exista o diferenta semnificativa intre ele . <EOS>
+
+> i boarded the bus .
+= m am suit in autobuz .
+< m am suit in autobuz . <EOS>
+
+> you should do something .
+= ar trebui sa faci ceva .
+< ar trebui sa faci ceva . <EOS>
+
+> we shouldn t be discussing this now .
+= noi nu ar trebui sa discutam asta acum .
+< noi nu ar trebui face acum asta <EOS>
+
+> tom remembers your name .
+= tom isi aminteste de numele tau .
+< tom isi aminteste de numele tau . <EOS>
+
+> this soil is moist .
+= acest sol e umed .
+< acest sol e umed . <EOS>
+
+> the president ignored the protesters outside his office .
+= presedintele a ignorat protestatarii din afara biroului sau .
+< presedintele a ignorat protestatarii din afara biroului . <EOS>
+
+> this is outlandish .
+= acest lucru este ciudat .
+< acest lucru este ciudat . <EOS>
+
+> i ll give you anything but this .
+= ti as da orice insa nu si asta .
+< nu pot permite si orice pe . <EOS>
+
+> this could take a while longer .
+= asta ar mai putea dura .
+< asta ar mai putea dura . <EOS>
+
